@@ -1,0 +1,16 @@
+C:\Users\tn_kz\source\repos\BotNetLite\BotNetLite\obj\Debug\net5.0\BotNetLite.csproj.AssemblyReference.cache
+C:\Users\tn_kz\source\repos\BotNetLite\BotNetLite\obj\Debug\net5.0\BotNetLite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tn_kz\source\repos\BotNetLite\BotNetLite\obj\Debug\net5.0\BotNetLite.AssemblyInfoInputs.cache
+C:\Users\tn_kz\source\repos\BotNetLite\BotNetLite\obj\Debug\net5.0\BotNetLite.AssemblyInfo.cs
+C:\Users\tn_kz\source\repos\BotNetLite\BotNetLite\obj\Debug\net5.0\BotNetLite.csproj.CoreCompileInputs.cache
+C:\Users\tn_kz\source\repos\BotNetLite\BotNetLite\bin\Debug\net5.0\BotNetLite.exe
+C:\Users\tn_kz\source\repos\BotNetLite\BotNetLite\bin\Debug\net5.0\BotNetLite.deps.json
+C:\Users\tn_kz\source\repos\BotNetLite\BotNetLite\bin\Debug\net5.0\BotNetLite.runtimeconfig.json
+C:\Users\tn_kz\source\repos\BotNetLite\BotNetLite\bin\Debug\net5.0\BotNetLite.runtimeconfig.dev.json
+C:\Users\tn_kz\source\repos\BotNetLite\BotNetLite\bin\Debug\net5.0\BotNetLite.dll
+C:\Users\tn_kz\source\repos\BotNetLite\BotNetLite\bin\Debug\net5.0\ref\BotNetLite.dll
+C:\Users\tn_kz\source\repos\BotNetLite\BotNetLite\bin\Debug\net5.0\BotNetLite.pdb
+C:\Users\tn_kz\source\repos\BotNetLite\BotNetLite\obj\Debug\net5.0\BotNetLite.dll
+C:\Users\tn_kz\source\repos\BotNetLite\BotNetLite\obj\Debug\net5.0\ref\BotNetLite.dll
+C:\Users\tn_kz\source\repos\BotNetLite\BotNetLite\obj\Debug\net5.0\BotNetLite.pdb
+C:\Users\tn_kz\source\repos\BotNetLite\BotNetLite\obj\Debug\net5.0\BotNetLite.genruntimeconfig.cache
